@@ -1,11 +1,12 @@
 # integrador_miercoles26
 proyecto integrador 2026-1 - analisis de datos
 
-##Integrantes
-Julio Carrillo
-Camila Ortiz
-Isaac Castañeda
-Felipe Valencia
+## Integrantes
+# Julio Carrillo
+# Camila Ortiz
+# Isaac Castañeda
+# Felipe Valencia
+### Control inteligente de gastos hormigas con analisis de datos
 
 # 🧠💰 Zent - Análisis de Gastos Hormiga con Python
 
